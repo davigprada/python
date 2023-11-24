@@ -1,0 +1,2 @@
+Hola, este es un archivo de texto creado
+desde el archivo write.py!

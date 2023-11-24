@@ -1,0 +1,9 @@
+
+Programación funcional
+La programación funcional es un paradigma de programación
+en el que el método principal de cálculo es la evaluación de funciones.
+
+A pesar de que Python no es un lenguaje puramente funcional,
+nos ofrece algunas primitivas propias de lenguajes funcionales,
+tales como map, filter y reduce.
+Todas ellas ofrecen una alternativa al uso de bucles para resolver ciertos problemas
